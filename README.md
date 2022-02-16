@@ -1,4 +1,4 @@
-## Desafio 02 de aprendizado da trilha de ReactJS do curso Ignite by Rocketseat
+## Desafio 04 de aprendizado da trilha de ReactJS do curso Ignite by Rocketseat
 
 ---
 
